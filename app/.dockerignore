@@ -1,0 +1,9 @@
+.bsp
+.scala-build
+.idea
+.scalafmt.conf
+
+*.class
+*.log
+hs_err_pid*
+*.iml
